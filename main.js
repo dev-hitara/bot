@@ -20,7 +20,7 @@ def web():
     server = Thread(target=run)
     server.start()
 web()
-token = "youtoken"
+token = "YOUR BOT TOKEN"
 
 SPAM_CHANNEL = random_contents = ["ch1","ch2","ch3"]
 
